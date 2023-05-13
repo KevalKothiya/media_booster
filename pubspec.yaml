@@ -65,16 +65,16 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
-  assets:
-    - assets/part_01/
-    - assets/part_04/
-    - assets/part_03/
-    - assets/part_02/
-    - assets/images/
-    - assets/songs/bolly_song/
-    - assets/songs/bolly_video/
-    - assets/songs/holly_song/
-    - assets/songs/holly_video/
+#  assets:
+#    - assets/part_01/
+#    - assets/part_04/
+#    - assets/part_03/
+#    - assets/part_02/
+#    - assets/images/
+#    - assets/songs/bolly_song/
+#    - assets/songs/bolly_video/
+#    - assets/songs/holly_song/
+#    - assets/songs/holly_video/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
