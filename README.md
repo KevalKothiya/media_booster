@@ -53,6 +53,7 @@ player page.
 ## Project OutPut :
 
 
+https://github.com/KevalKothiya/media_booster/assets/131429045/e12f396b-af38-401d-92be-79a60ce3dffc
 
 
 <img align="left" src="https://github.com/KevalKothiya/media_booster/assets/131429045/46b2e9df-e809-4033-afeb-c2af583e6aa7" width="220px">
