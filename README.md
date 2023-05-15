@@ -52,7 +52,6 @@ player page.
 
 ## Project OutPut :
 
-https://user-images.githubusercontent.com/131429045/236796413-fabcc850-abee-4a25-a536-ec0536bcd0e5.mp4
 
 
 
@@ -68,3 +67,24 @@ https://user-images.githubusercontent.com/131429045/236796413-fabcc850-abee-4a25
 <img align="left" src="https://user-images.githubusercontent.com/131429045/236819721-205330ad-ff4d-4fa0-925e-ac4e8be8a7d6.png" width="220px">
 <img align="left" src="https://user-images.githubusercontent.com/131429045/236819742-b789831c-2d54-4a8f-8466-658578f7effc.png" width="220px">
 <img src="https://user-images.githubusercontent.com/131429045/236819747-72cea5f0-63f8-453a-a446-3da59998b029.png" width="220px">
+
+
+![Screenshot_20230514_003744](https://github.com/KevalKothiya/media_booster/assets/131429045/46b2e9df-e809-4033-afeb-c2af583e6aa7)
+![Screenshot_20230514_003637](https://github.com/KevalKothiya/media_booster/assets/131429045/4ae93d75-c49a-4ed5-98d5-19a3e0ca9b42)
+![Screenshot_20230514_003719](https://github.com/KevalKothiya/media_booster/assets/131429045/c8a45724-f6c9-4f38-9296-fc6e87dc97b8)
+![Screenshot_20230514_003656](https://github.com/KevalKothiya/media_booster/assets/131429045/14c66d99-7760-4d20-8c27-c5026bb67d3e)
+![Screenshot_20230514_003750](https://github.com/KevalKothiya/media_booster/assets/131429045/f97ab3d6-e36b-440f-b9b6-0e2b7e960bec)
+![Screenshot_20230514_003704](https://github.com/KevalKothiya/media_booster/assets/131429045/796502c5-924f-4be0-b923-8301b88550f4)
+![Screenshot_20230514_003732](https://github.com/KevalKothiya/media_booster/assets/131429045/2d080030-edcf-45b9-be25-b11c7e943896)
+![Screenshot_20230514_003828](https://github.com/KevalKothiya/media_booster/assets/131429045/6b6ceac2-cb9d-438a-845c-43bdf7bb4300)
+
+
+
+
+
+
+
+
+
+
+
